@@ -23,7 +23,7 @@
   "homepage": "https://github.com/puf17640/covid-box#readme",
   "dependencies": {
     "actions-toolkit": "^2.2.0",
-    "covidapi": "0.3.0",
+    "covidapi": "0.5.0",
     "dotenv": "^8.2.0",
     "gist-box": "^0.3.1",
     "moment": "^2.29.1",
