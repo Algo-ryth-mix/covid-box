@@ -31,7 +31,7 @@
     "text-table": "^0.2.0"
   },
   "devDependencies": {
-    "@aero/eslint-config": "^1.0.1",
+    "@aero/eslint-config": "^1.0.5",
     "eslint": "^7.23.0"
   },
   "husky": {
