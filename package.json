@@ -24,7 +24,7 @@
   "dependencies": {
     "actions-toolkit": "^6.0.1",
     "covidapi": "0.5.0",
-    "dotenv": "^8.2.0",
+    "dotenv": "^10.0.0",
     "gist-box": "^0.3.1",
     "moment": "^2.29.1",
     "node-emoji": "1.10.0",
