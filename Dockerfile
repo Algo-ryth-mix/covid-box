@@ -1,4 +1,4 @@
-FROM node:lts-alpine
+FROM node:20.15.1-alpine3.20
 
 # Labels for GitHub to read your action
 LABEL "com.github.actions.name"="COVID-Box"
